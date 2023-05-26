@@ -9,7 +9,7 @@ function ArrowIcon({ className = "w-6 h-6" }) {
       viewBox="0 0 24 24"
     >
       <path
-        stroke="#000"
+        stroke="currentColor"
         strokeLinejoin="round"
         strokeWidth="2"
         d="M16 4l-8 8 8 8"

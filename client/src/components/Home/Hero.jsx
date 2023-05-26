@@ -4,9 +4,9 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import Bamboo from "../assets/Bamboo";
-import ArrowIcon from "../assets/Icons/ArrowIcon";
-import PlayIcon from "../assets/Icons/PlayIcon";
+import Bamboo from "../../assets/Bamboo";
+import ArrowIcon from "../../assets/Icons/ArrowIcon";
+import PlayIcon from "../../assets/Icons/PlayIcon";
 
 const list = [
   {
